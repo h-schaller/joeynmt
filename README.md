@@ -234,5 +234,4 @@ url = {https://arxiv.org/abs/1907.12484}
 ```
 
 ## Naming
-Joeys are [infant marsupials](https://en.wikipedia.org/wiki/Marsupial#Early_development). 
-
+Joeys are [infant marsupials](https://en.wikipedia.org/wiki/Marsupial#Early_development).
