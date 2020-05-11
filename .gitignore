@@ -4,3 +4,9 @@ dist/*
 *.egg-info/*
 docs/build/*
 *__pycache__*
+venvs/
+data/
+shared_models/
+tools/
+models/
+joeynmt/__init__.pyc
